@@ -1,2 +1,2 @@
-# LabenuProjects
-Projects make while i'm studying at Labenu
+# Projects
+Projects make while i'm studying javaScript
